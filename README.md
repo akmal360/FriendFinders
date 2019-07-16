@@ -7,6 +7,7 @@
 ## Demo
 	
 *Friend Finder* is deployed to Heroku. Please check it out 
+https://salty-bayou-21828.herokuapp.com/
 
 
 
